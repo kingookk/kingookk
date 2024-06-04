@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "اكتـب ايدي ايبي المساعـد مثل ⦗ 26591385 ⦘",
-        "value": "",
+        "value": "22985839",
         "required": true
       },
       "API_HASH": {
         "description": "اكتب ايدي هاش المساعـد مثل ⦗ 321a2edfcf7f667acc70472a4d13ca20 ⦘",
-        "value": "",
+        "value": "d2206cce5a3f64b71a2c3c25265ae4fa",
         "required": true
       },
       "BOT_NAME": {
@@ -29,12 +29,12 @@
       },
       "CHANNEL_NAME": {
         "description": "اسم قنـاتك للانضمام",
-        "value": "تحديثات رودينا 🇸🇦",
+        "value": "ســاي🇪🇬",
         "required": true
       },
       "CHANNEL_LINK": {
         "description": "معـرف قنـاتك بدون @",
-        "value": "m_A_s_k33",
+        "value": "creativee24",
         "required": true
       },
       "BOT_TOKEN": {
@@ -49,7 +49,7 @@
       },
       "OWNER_ID": {
         "description": "⦗ ايـــدي المطـــور ⦘ ↫ مطـــور بـــوت الميـــوزك",
-        "value": "6352598131",
+        "value": "1400467850",
         "required": true
         
       },
@@ -61,13 +61,13 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع معـرف قنـاتك",
-        "value": "WX_PM",
+        "value": "source_av",
         "required": true
         
       },
       "Muntazer": {
         "description": "  ضع قناة الاشتراك الاجباري ⦗ لاتنسى رفع البوت مشرف في القناة ⦘ .",
-        "value": "WX_PM",
+        "value": "creativee24",
         "required": true
         
       },
@@ -106,7 +106,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "لا تـغيرها ابـدا",
-        "value": "https://github.com/LeoTeto/RX79R",
+        "value": "https://github.com/kingookk/kingookk",
         "required": true
       }
     },
