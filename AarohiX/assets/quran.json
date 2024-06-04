@@ -1,0 +1,480 @@
+{
+    "by": {
+        "contact": {
+            "telegram": "https://t.me/WZAERE"
+        },
+        "name": "Almortagel"
+    },
+    "s": [
+        {
+            "num": 1,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/001.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/001.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/001.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/001.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/001.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/001.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/001.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/001.mp3"
+                }
+            ],
+            "surah": "الفاتحة"
+        },
+        {
+            "num": 2,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/002.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/002.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/002.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/002.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/002.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/002.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/002.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/002.mp3"
+                }
+            ],
+            "surah": "البقرة"
+        },
+        {
+            "num": 3,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/003.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/003.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/003.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/003.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/003.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/003.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/003.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/003.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/003.mp3"
+                }
+            ],
+            "surah": "ال عمران"
+        },
+        {
+            "num": 4,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/004.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/004.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/004.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/004.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/004.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/004.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/004.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/004.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/004.mp3"
+                }
+            ],
+            "surah": "النساء"
+        },
+        {
+            "num": 5,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/005.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/005.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/005.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/005.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/005.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/005.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/005.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/005.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/005.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/005.mp3"
+                }
+            ],
+            "surah": "المائدة"
+        },
+        {
+            "num": 6,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/006.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/006.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/006.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/006.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/006.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/006.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/006.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/006.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/006.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/006.mp3"
+                }
+            ],
+            "surah": "الانعام"
+        },
+        {
+            "num": 7,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/007.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/007.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/007.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/007.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/007.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/007.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/007.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/007.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/007.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/007.mp3"
+                }
+            ],
+            "surah": "الاعراف"
+        },
+        {
+            "num": 8,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/008.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/008.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/008.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/008.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/008.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/008.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/008.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/008.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/008.mp3"
+                }
+            ],
+            "surah": "الانفال"
+        },
+        {
+            "num": 9,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/009.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/009.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/009.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/009.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/009.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/009.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/009.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/009.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/009.mp3"
+                }
+            ],
+            "surah": "التوبة"
+        },
+        {
+            "num": 10,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/010.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/010.mp3"
+                },
+                {
+                    "name": "سعد الغامدي",
+                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/010.mp3"
+                },
+                {
+                    "name": "عبد الباسط عبد الصمد",
+                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/010.mp3"
+                },
+                {
+                    "name": "محمود الحصري",
+                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/010.mp3"
+                },
+                {
+                    "name": "ماهر المعيقلي",
+                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/010.mp3"
+                },
+                {
+                    "name": "عبد الرحمن السديس",
+                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3"
+                },
+                {
+                    "name": "احمد العجمي",
+                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/010.mp3"
+                },
+                {
+                    "name": "مشاري راشد العفاسي",
+                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/010.mp3"
+                },
+                {
+                    "name": "ياسر الدوسري",
+                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/010.mp3"
+                }
+            ],
+            "surah": "يونس"
+        },
+        {
+            "num": 11,
+            "sounds": [
+                {
+                    "name": "فارس عباد",
+                    "url": "https://download.quranicaudio.com/quran/fares/011.mp3"
+                },
+                {
+                    "name": "محمد المنشاوي",
+                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/011.mp3"
+                },
+       
